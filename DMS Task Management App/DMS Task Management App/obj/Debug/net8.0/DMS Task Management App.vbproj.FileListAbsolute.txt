@@ -1,0 +1,14 @@
+C:\Users\jlnq\source\repos\DMS Task Management App\DMS Task Management App\obj\Debug\net8.0\DMS Task Management App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlnq\source\repos\DMS Task Management App\DMS Task Management App\obj\Debug\net8.0\DMS Task Management App.AssemblyInfoInputs.cache
+C:\Users\jlnq\source\repos\DMS Task Management App\DMS Task Management App\obj\Debug\net8.0\DMS Task Management App.AssemblyInfo.vb
+C:\Users\jlnq\source\repos\DMS Task Management App\DMS Task Management App\obj\Debug\net8.0\DMS Task Management App.vbproj.CoreCompileInputs.cache
+C:\Users\jlnq\source\repos\DMS Task Management App\DMS Task Management App\bin\Debug\net8.0\DMS Task Management App.exe
+C:\Users\jlnq\source\repos\DMS Task Management App\DMS Task Management App\bin\Debug\net8.0\DMS Task Management App.deps.json
+C:\Users\jlnq\source\repos\DMS Task Management App\DMS Task Management App\bin\Debug\net8.0\DMS Task Management App.runtimeconfig.json
+C:\Users\jlnq\source\repos\DMS Task Management App\DMS Task Management App\bin\Debug\net8.0\DMS Task Management App.dll
+C:\Users\jlnq\source\repos\DMS Task Management App\DMS Task Management App\bin\Debug\net8.0\DMS Task Management App.pdb
+C:\Users\jlnq\source\repos\DMS Task Management App\DMS Task Management App\obj\Debug\net8.0\DMS Task Management App.dll
+C:\Users\jlnq\source\repos\DMS Task Management App\DMS Task Management App\obj\Debug\net8.0\refint\DMS Task Management App.dll
+C:\Users\jlnq\source\repos\DMS Task Management App\DMS Task Management App\obj\Debug\net8.0\DMS Task Management App.pdb
+C:\Users\jlnq\source\repos\DMS Task Management App\DMS Task Management App\obj\Debug\net8.0\DMS Task Management App.genruntimeconfig.cache
+C:\Users\jlnq\source\repos\DMS Task Management App\DMS Task Management App\obj\Debug\net8.0\ref\DMS Task Management App.dll
